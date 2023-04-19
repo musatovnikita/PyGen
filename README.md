@@ -10,7 +10,7 @@ To check out docs, visit [pygen.ru](https://pygen.ru/).
 
 ## Questions
 
-For questions and support please use [email](mailto: support@pygen.ru).
+For questions and support please use [email](mailto:support@pygen.ru).
 
 ## Stay In Touch
 
