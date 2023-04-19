@@ -1,4 +1,4 @@
-<p align="center"><a href="https://pygen.ru/" target="_blank" rel="noopener noreferrer"><img width="1000" src="https://static.tildacdn.com/tild6661-3661-4764-a137-663430663464/11.png" alt="PyGen logo"></a></p>
+<p align="center"><a href="https://pygen.ru/" target="_blank" rel="noopener noreferrer"><img width="500" src="https://static.tildacdn.com/tild6661-3661-4764-a137-663430663464/11.png" alt="PyGen logo"></a></p>
 
 ## About
 
