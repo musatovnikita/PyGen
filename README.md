@@ -16,3 +16,4 @@ For questions and support please use [email](mailto:support@pygen.ru).
 
 - [Telegram](https://t.me/pygen_ru)
 - [GitHub](https://github.com/python-generation)
+- [Site](https://pygen.ru/)
