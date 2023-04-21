@@ -1,0 +1,5 @@
+price_monitor = int(input())
+price_blok = int(input())
+price_keyboard = int(input())
+price_mouse= int(input())
+print((price_monitor + price_blok + price_keyboard + price_mouse)*3)
