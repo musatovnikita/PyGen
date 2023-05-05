@@ -1,0 +1,5 @@
+num1, num2, num3, num4, num5 = int(input()), int(input()), int(input()), int(input()), int(input())
+max_num = max(num1, num2, num3, num4, num5)
+min_num = min(num1, num2, num3, num4, num5)
+print("Наименьшее число =", min_num)
+print("Наибольшее число =", max_num)
